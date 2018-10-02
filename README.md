@@ -2,13 +2,13 @@
 
 ## 個人情報
 
-氏名: 新妻 巧朗  
-生年月日: 1994/01/28  
-ID: otakumesi  
-ポートフォリオサイト: https://otakumesi.io  
-Github: https://github.com/otakumesi  
-Qitta: https://qiita.com/otakumesi  
-Twitter: https://twitter.com/otakumesi  
+| 氏名| 新妻 巧朗 |
+| 生年月日 | 1994/01/28 |
+| ID | otakumesi |
+| ポートフォリオサイト| https://otakumesi.io |
+| Github | https://github.com/otakumesi |
+| Qiita | https://qiita.com/otakumesi |
+| Twitter | https://twitter.com/otakumesi |
 
 # 略歴
 | 年月日 | できごと |
