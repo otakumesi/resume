@@ -10,7 +10,6 @@
 | ポートフォリオサイト| https://otakumesi.io |
 | Github | https://github.com/otakumesi |
 | Qiita | https://qiita.com/otakumesi |
-| Twitter | https://twitter.com/otakumesi |
 
 # 略歴
 | 年月日 | できごと |
