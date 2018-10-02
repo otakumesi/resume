@@ -1,16 +1,14 @@
-経歴書
+# 経歴書
 
-===
+## 個人情報
 
-# 個人情報
-
-氏名: 新妻 巧朗
-生年月日: 1994/01/28
-ID: otakumesi
-ポートフォリオサイト: https://otakumesi.io
-Github: https://github.com/otakumesi
-Qitta: https://qiita.com/otakumesi
-Twitter: https://twitter.com/otakumesi
+氏名: 新妻 巧朗  
+生年月日: 1994/01/28  
+ID: otakumesi  
+ポートフォリオサイト: https://otakumesi.io  
+Github: https://github.com/otakumesi  
+Qitta: https://qiita.com/otakumesi  
+Twitter: https://twitter.com/otakumesi  
 
 # 略歴
 | 年月日 | できごと |
@@ -24,7 +22,8 @@ Twitter: https://twitter.com/otakumesi
 ## 法政大学経済学部経済学科 2012/04 ~ 2016/03
 小沢和浩ゼミにてデータマイニングを学ぶ。
 
-* 2016/03 「第26回ソフトサイエンス・ワークショップ」にて「ベストプレゼンテーション賞」を受賞。
+* 「2015年度 法政大学経済学部 優秀卒業論文賞」を受賞。
+* 「第26回ソフトサイエンス・ワークショップ」にて「ベストプレゼンテーション賞」を受賞。
   * 発表内容は「データマイニング手法による地方再生のための国土政策への提言」
 
 ## 日本コンピューター株式会社 2016/04 ~ 2017/05
@@ -35,15 +34,11 @@ Twitter: https://twitter.com/otakumesi
 
 ### 主な開発環境
 
-* PHP
-  * CodeIgniter
-
-* JavaScript
-  * jQuery
-
-* MariaDB
-
-* Debian
+| 種類 | 技術 |
+|---|---|
+| 言語（フレームワーク） | PHP(CodeIgniter)、JavaScript(jQuery) |
+| DB | MariaDB |
+| サーバーOS | Debian |
 
 ## 株式会社リブセンス 2017/06 ~
 ### やったこと
@@ -54,20 +49,13 @@ Twitter: https://twitter.com/otakumesi
 
 ### 主な開発環境
 
-* PHP
-  * Symfony
-* Ruby
-  * Rails
-
-* JavaScript
-  * React
-  * jQuery
-
-* MySQL
-* Apache Slor
-* Redis
-
-* CentOS
+| 種類 | 技術 |
+|---|---|
+| 言語（フレームワーク） | Ruby(Rails), PHP(Symfony), JavaScript(jQuery) |
+| DB | MySQL, Redis |
+| キャッシュストレージ | Redis |
+| 全文検索エンジン | ApacheSolr |
+| サーバーOS | CentOS |
 
 # 個人的に興味がある技術
 
