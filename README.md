@@ -8,7 +8,7 @@
 | 生年月日 | 1994/01/28 |
 | ID | otakumesi |
 | ポートフォリオサイト| https://otakumesi.io |
-| Github | https://github.com/otakumesi |
+| GitHub | https://github.com/otakumesi |
 | Qiita | https://qiita.com/otakumesi |
 
 # 略歴
