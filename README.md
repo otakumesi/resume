@@ -70,7 +70,7 @@
 
 | 種類 | 技術 |
 |---|---|
-| 言語（フレームワーク） | Ruby(Rails), PHP(Symfony), JavaScript(jQuery) |
+| 言語（フレームワーク） | Ruby(Rails), PHP(Symfony), JavaScript(jQuery), JavaScript(React) |
 | DB | MySQL, Redis |
 | キャッシュストレージ | Redis |
 | 全文検索エンジン | ApacheSolr |
