@@ -8,6 +8,7 @@
 | 生年月日 | 1994/01/28 |
 | ID | otakumesi |
 | ポートフォリオサイト| https://otakumesi.io |
+| ブログ| https://www.skyrocketing.work |
 | GitHub | https://github.com/otakumesi |
 | Qiita | https://qiita.com/otakumesi |
 
