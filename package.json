@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "md-to-pdf": "^3.3.1"
+  },
+  "scripts": {
+    "pdf": "cat resume.md | md-to-pdf > resume.pdf"
+  }
+}
