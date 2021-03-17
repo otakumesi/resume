@@ -1,14 +1,31 @@
 # 職務経歴書
-date: 2021/03/16
+<p class="date">date: 2021/03/16</p>
 
 ※職務経歴だけでなく、奈良先端大における学生としての活動も含んでおります。
 
 ## 個人データ
-* 氏名: 新妻 巧朗 (Niitsuma Takuro)
-* GitHub: https://github.com/otakumesi/
-* Twitter: https://twitter.com/otakumesi
-* Qiita: https://qiita.com/otakumesi
-* Web: https://otakumesi.io/, https://www.skyrocketing.work/
+<table>
+<tr>
+<th>氏名</th>
+<td>新妻 巧朗 (Niitsuma Takuro)</td>
+</tr>
+<tr>
+<th>GitHub</th>
+<td>https://github.com/otakumesi/</td>
+</tr>
+<tr>
+<th>Twitter</th>
+<td>https://twitter.com/otakumesi</td>
+</tr>
+<tr>
+<th>Qiita</th>
+<td>https://qiita.com/otakumesi</td>
+</tr>
+<tr>
+<th>Web</th>
+<td>https://otakumesi.io/, https://www.skyrocketing.work/</td>
+</tr>
+</table>
 
 ---
 
@@ -76,14 +93,21 @@ date: 2021/03/16
 #### マッハバイトの開発 / 運用
 https://j-sen.jp/
 
-* チーム規模
-  * 3-8人
-* 技術
-  * Ruby, Rails, PHP, Symfony, JavaScript, jQuery, React, Apache Solr, Redis, MySQL, AWS
+<table>
+<tr>
+<th>チーム規模</th>
+<td>3-8人</td>
+</tr>
+<tr>
+<th>技術</th>
+<td>Ruby, Rails, PHP, Symfony, JavaScript, jQuery, React, Apache Solr, Redis, MySQL, AWS</td>
+</tr>
+</table>
 
-主にアルバイト求人サービスのメディア側の開発を担当。
+主にアルバイト求人サービスのメディア側の開発を担当。  
+  
+心がけていたことをは3つ。  
 
-心がけていたことをは3つ。
 * 技術的負債を返却していく
 * 最初のジョブポジションに固執しない
 * 貪欲に広い知識を学ぼうとする
@@ -123,6 +147,7 @@ https://j-sen.jp/
 * 業務委託の採用面接にも2回参加
 
 【主なリーダーとしての業務内容】
+
 * プロジェクトやチームのタスクマネジメント
 * 他チーム間で発生する要求のコンフリクトの折衝
 * 開発時の設計レビュー
@@ -131,7 +156,7 @@ https://j-sen.jp/
 
 #### その他
 * 人事部向けの内部ツール（Chrome Extension）
-  * JavaScript / Vue.js / Service Worker
+  * JavaScript, Vue.js, Service Worker
 * カスタマーサクセスチーム向けの勉強会
   * Zapier（業務効率化ツール）勉強会
   * Google App Script勉強会
@@ -141,10 +166,16 @@ https://j-sen.jp/
 #### 親子向けイベントチケット売買仲介サイト
 （現在はクローズ）
 
-* チーム規模
-  * 2人
-* 技術
-  * PHP, CodeIgniter, JavaScript, jQuery, MariaDB
+<table>
+<tr>
+<th>チーム規模</th>
+<td>2人</td>
+</tr>
+<tr>
+<th>技術</th>
+<td>PHP, CodeIgniter, JavaScript, jQuery, MariaDB</td>
+</tr>
+</table>
 
 * 新規事業としてはじまり、環境構築が完了後の状態のプロダクトを引き継いで担当
   * チケット売買のための決済機能の開発やイベント情報を記述するためのエディタを開発
